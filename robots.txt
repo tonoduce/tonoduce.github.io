@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tonoduce.github.io/sitemap.html.gz
+Sitemap: https://tonoduce.github.io/app/sitemap.html.gz
+Sitemap: https://tonoduce.github.io/assets/sitemap.html.gz
+Sitemap: https://tonoduce.github.io/css/sitemap.html.gz
+Sitemap: https://tonoduce.github.io/includes/sitemap.html.gz
+Sitemap: https://tonoduce.github.io/item/sitemap.html.gz
+Sitemap: https://tonoduce.github.io/src/sitemap.html.gz
